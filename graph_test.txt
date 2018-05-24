@@ -1,0 +1,23 @@
+new: 5
+
+insert 0 1 7
+
+insert 0 2 5
+
+insert 0 4 3
+
+insert 2 1 4
+
+insert 2 3 2
+
+insert 3 1 8
+
+distance 3 1 6
+
+distance 3 2 2
+
+delete
+
+summary
+
+
